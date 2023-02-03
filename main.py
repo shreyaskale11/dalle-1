@@ -8,7 +8,7 @@ from streamlit_drawable_canvas import st_canvas
 import pandas as pd
 import numpy as np
 from matplotlib import cm
-openai.api_key = "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"
+openai.api_key = "xyz"
 
 st.set_page_config( page_title="ChatGPT + DALL-E 2", page_icon="✨", layout="wide", initial_sidebar_state="auto", )
 
