@@ -1,0 +1,8 @@
+openai
+PIL
+streamlit
+io 
+PIL
+streamlit_drawable_canvas 
+numpy 
+# pip install -r requirements.txt
