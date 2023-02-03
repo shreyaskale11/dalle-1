@@ -2,7 +2,7 @@ openai
 PIL
 streamlit
 io 
-PIL
 streamlit_drawable_canvas 
 numpy 
+streamlit_cropper
 # pip install -r requirements.txt
