@@ -1,7 +1,6 @@
 openai
 Pillow
 streamlit
-io 
 streamlit_drawable_canvas 
 numpy 
 streamlit_cropper
